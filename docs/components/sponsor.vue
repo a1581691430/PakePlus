@@ -9,7 +9,7 @@
     <div class="sponsorBox">
         <img
             class="wxCode"
-            src="../static/imgs/sponsor3.webp"
+            src="../static/imgs/sponsor2.webp"
             alt="WeChat QR Code"
         />
     </div>
@@ -131,10 +131,10 @@ const langMap: any = {
         copyError: '复制失败',
     },
     en: {
-        title: '💖 Sponsor Us',
+        title: '💖 Sponsor',
         description:
             'If you also like our PakePlus project, we welcome your sponsorship to help us continue development and maintenance. Your support is our driving force. Please include a message or email us at: 1024xiaoshen@gmail.com when sponsoring so we can acknowledge your contribution and provide you with an activation code to unlock more features! Thank you for your support!',
-        wechat: 'WeChat/Alipay/PayPal Sponsorship',
+        wechat: 'WeChat/Alipay/PayPal',
         wallet: 'Web3 Wallet Support',
     },
 }
