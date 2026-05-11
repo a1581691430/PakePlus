@@ -361,7 +361,11 @@ export default defineConfig({
                             collapsed: false,
                             items: [
                                 {
-                                    text: '开启调试',
+                                    text: '桌面端debug',
+                                    link: '/zh/question/pcdebug',
+                                },
+                                {
+                                    text: '移动端debug',
                                     link: '/zh/question/debug',
                                 },
                             ],
